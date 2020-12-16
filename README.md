@@ -8,5 +8,7 @@ Assortativity and Connection Density of networks are revealed, as well.
 Please note that this work is done as an assignment of Graph Theory course (https://www.youtube.com/playlist?list=PLug43ldmRSo3MV-Jgjr30E5SpwNKkjTvJ) Fall 2020, in Istanbul Technical University. 
 
 [1] Stuart Oldham, Ben Fulcher, Linden Parkes, Aurina Arnatkeviciute, Chao Suo, and Alex Fornito. Consistency and differences between centrality metrics across distinct classes of networks. 05 2018.
+
 [2] Bela Bollobss. The evolution of random graphs. Transactions of the American Mathematical Society, 286(1):257–274, 1984.
+
 [3] Sergei Maslov and Kim Sneppen. Specificity and stability in topology of protein networks. Science, 296(5569):910–913, 2002.
