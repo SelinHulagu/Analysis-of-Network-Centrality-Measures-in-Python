@@ -1,5 +1,5 @@
 # Analysis-of-Network-Centrality-Measures-in-Python
-Within this work, several experiments in Oldham et al. [1] paper that is conducted in MATLAB, are coded up using Jupyter Notebook.
+Within this work, several experiments in Oldham et al. [1] paper that has conducted in MATLAB, are coded up using Jupyter Notebook.
 
 As networks, it is simulated 40 networks: 20 unconstrainted weighted using Erdos-Renyi [2] generative model and 20 constrained unweighted using Maslov-Sneppen [3] algorithm.
 After the brief information about Erdos-Renyi and Maslov-Sneppen models, 15 centrality measures are introduced and the correlation between them are discussed.
